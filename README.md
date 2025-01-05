@@ -32,7 +32,7 @@ Steps for Doing this Project
 
 -> Create inference function using AWS Lambda.
 
--> In AWS Lambda write the code in the code editor.
+-> In AWS Lambda write the code which is given in "lambda function.txt" in the code editor.
 
 -> Go to IAM for creating the new execution role for deploying and testing the code written on AWS Lambda after creating the Inference function.
 
