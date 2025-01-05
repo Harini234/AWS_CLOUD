@@ -15,10 +15,15 @@ Steps for Doing this Project
 -> Create a Jupyter notebook by going into AWS Sagemaker AI
 
 -> Write a python code which involves :-
+    
     => Data Preparation
+    
     => Moving the data to S3 bucket using Boto3 package
+    
     => Create XGB model using Sagemaker AI
+    
     => Train Model
+    
     => Deploy the model
 
 -> Deployment status can be found in AWS Sagemaker AI -> Inference -> Endpoints
@@ -37,4 +42,4 @@ Steps for Doing this Project
 
 Conclusion
 
-->We are using Iris flower dataset for predicting the type of flower in the numeric format.
+-> We are using Iris flower dataset for predicting the type of flower in the numeric format.
